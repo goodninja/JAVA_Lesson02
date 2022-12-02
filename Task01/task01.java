@@ -15,7 +15,7 @@ public class task01 {
     
     public static void main (String[] args) throws Exception {
         
-        BufferedReader bufferreader = new BufferedReader(new FileReader("C:/Users/Bjorn Hatred/Desktop/THE MOST IMPORTANT FOLDER/GeekBrains/JAVA/Lesson02/Task01/task01.txt"));
+        BufferedReader bufferreader = new BufferedReader(new FileReader("task01.txt"));
         
         String data;
         StringBuilder stringbuilder = new StringBuilder();
